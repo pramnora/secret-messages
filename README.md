@@ -24,6 +24,8 @@ Different ways of hiding 'secret messages' inside of web pages.
 
 **NOTE**: For sheer simplicity sake, messages here are all shown as 'unencrypted' plain text.  
 
+-----
+
 *** LINKS...
 
 Here is my own GitHub page which is related to using different 'encoding' methods...    
