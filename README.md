@@ -1,5 +1,6 @@
 # secret-messages
-secret-messages
+
+Different ways to hide 'secret messages' inside of web pages.
 
 ## DISCLAIMER
 
@@ -9,7 +10,7 @@ secret-messages
 
 1. **Hide** (The person should have to find out where the 'hidden' message is, first?) 
 - Use internal 'source code' comments: HTML/CSS/Javascript/XML/-etc.
-- Use external files to hide those comments in (Links to external files might either be listed/or, unlisted inside of the original web page document 'source code'.)
+- Use external files to hide those comments in (links to external files might either be listed/or, unlisted inside of the original web page document 'source code').
 - Instead, of sending output to the document 'body' section; send it to an alert message box/console.log()/local or session storage/-etc.
 2. **Encrypt** (Each message can be 'encrypted' using code.) 
 - You can write the message backwards. (Text = txet)  
