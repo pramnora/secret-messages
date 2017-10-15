@@ -15,7 +15,7 @@ secret-messages
 2. Encrypt (Each message can be 'encrypted' using code.) 
 - You can write the message backwards. (Text = txet)  
 - You can swap each pair of letters around. (Text = eTtx)
-- In order to hide the message...it's often a good idea to delete such things as spaces/upper casing/symbols...which shows where a sentence starts/ends; or, where one word begins/ends; and, so on.
+- In order to hide the message...it's often a good idea to delete such things as spaces/upper casing/symbols...which shows where a sentence starts/ends; or, where one word begins/ends; and, so on. (This is a sentence. = thisisasentence)  
 - Simple numbers encryption can be done as: A=1,B=2/../Z=26/-etc.  
 - As well as, using Decimal numbers/you can also use: Binary/Hexadecimal/Octal numbers. 
 - Or else, choose to invent your own form of data encryption techniques.    
