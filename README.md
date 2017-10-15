@@ -7,11 +7,10 @@ secret-messages
 
 ## Multi-layering (hide/encrypt)  
 
-1. **Hide** (The person should have to find out where the 'hidden' message is, first.) 
+1. **Hide** (The person should have to find out where the 'hidden' message is, first?) 
 - Use internal 'source code' comments: HTML/CSS/Javascript/XML/-etc.
-- Use external files to hide those comments in 
-- (Links to external files might either be listed/or, unlisted inside of the original web page document 'source code'.)
-- Instead, of sending output to the document 'body' section; send it to an alert message box/console.log()/local or session storage.
+- Use external files to hide those comments in (Links to external files might either be listed/or, unlisted inside of the original web page document 'source code'.)
+- Instead, of sending output to the document 'body' section; send it to an alert message box/console.log()/local or session storage/-etc.
 2. **Encrypt** (Each message can be 'encrypted' using code.) 
 - You can write the message backwards. (Text = txet)  
 - You can swap each pair of letters around. (Text = eTtx)
