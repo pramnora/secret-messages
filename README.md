@@ -1,6 +1,6 @@
 # secret-messages
 
-Different ways to hide 'secret messages' inside of web pages.
+Different ways of hiding 'secret messages' inside of web pages.
 
 ## DISCLAIMER
 
