@@ -21,6 +21,7 @@ Different ways of hiding 'secret messages' inside of web pages.
 - Simple numbers encryption can be done as: A=1,B=2/../Z=26/-etc.  
 - As well as, using Decimal numbers/you can also use: Binary/Hexadecimal/Octal numbers. 
 - Or else, choose to invent your own form of data encryption techniques.    
+- It's possible to encode messages using 'multiple' encryption techniques...as opposed to using just merely 'one'.
 
 **NOTE**: For sheer simplicity sake, messages here are all shown as 'unencrypted' plain text.  
 
