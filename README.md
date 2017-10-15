@@ -4,7 +4,9 @@ Different ways to hide 'secret messages' inside of web pages.
 
 ## DISCLAIMER
 
-> First of all, I would like to point out that I myself am certainly no 'expert' when it comes to matters of knowing all about the many different data encryption techniques; therefore, you should use extreme caution before following any of the advice that is being given herein. **NOTE**: This is purely 'amateur' level data encryption which is NOT in any way at all secure; therefore, **do not attempt to secure very important data using these techniques which can very easily be broken into**; rather this information is provided purely just for FUN...so that 'beginners' may feel encouraged to further experiment and learn more.  
+> First of all, I would like to point out that I myself am certainly no 'expert' when it comes to matters of knowing all about the many different data encryption techniques; therefore, you should use extreme caution before following any of the advice that is being given herein. 
+
+> **NOTE**: This is purely 'amateur' level data encryption which is NOT in any way at all secure; therefore, **do not attempt to secure very important data using these techniques which can very easily be broken into**; rather this information is provided purely just for FUN...so that 'beginners' may feel encouraged to further experiment and learn more.  
 
 ## Multi-layering (hide/encrypt)  
 
