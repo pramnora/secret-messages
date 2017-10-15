@@ -7,8 +7,16 @@ secret-messages
 
 ## Multi-layering
 
-1. Hide (The person should have to find out where the 'hidden' message is, first.)  
-2. Encrypt (Each message can be 'encrypted' using code.)  
+1. Hide (The person should have to find out where the 'hidden' message is, first.) 
+- Use internal 'source code' comments: HTML/CSS/Javascript/XML/-etc.
+- Use external files to hide those comments in.
+- Instead, of sending output to the document 'body' section; send it to alert message box/console.log/local or session storage.
+2. Encrypt (Each message can be 'encrypted' using code.) 
+- You can write the message backwards. (Text = txet)  
+- You can swap each pair of letters around. (Text = eTxt)  
+- Simple numbers encryption can be done as: A=1,B=2/../Z=26/-etc.  
+- You can also do Binary/Hexadecimal/Octal  
+- Or, invent your own form of data encryption techniques    
 
-**NOTE**: Messages here are unencrypted.  
+**NOTE**: Messages here are largely unencrypted.  
 
