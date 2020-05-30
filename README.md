@@ -29,5 +29,8 @@ Different ways of hiding 'secret messages' inside of web pages.
 
 ## LINKS...
 
+This is the [index.html] which allows one to view/test all code inside of this particular folder...  
+- https://pr-secretmessage.netlify.app/  
+
 Here is my own GitHub page which is related to using different 'encoding' methods...    
-https://github.com/pramnora/cryptography  
+- https://github.com/pramnora/cryptography  
