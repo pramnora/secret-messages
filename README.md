@@ -34,3 +34,13 @@ This is the [index.html] which allows one to view/test all code inside of this p
 
 Here is my own GitHub page which is related to using different 'encoding' methods...    
 - https://github.com/pramnora/cryptography  
+
+-----
+
+### OTHER
+
+Purely be accident...when I went over to Netlify...to upload my [index.html] page to: secretmessage.netlify.app...I discovered that that particular URL address was already taken. This forced me to change my Netlify URL to become, instead: pr-secretmessage. However, here is the 'original' site:  
+
+- https://secretmessage.netlify.com  
+
+...apparently, it enables you to send secret messages through: Slack.
